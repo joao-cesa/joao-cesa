@@ -6,7 +6,7 @@
 <div align="center">
   <h3>Linguagens</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,java" />
   </a>
   <br />
 
@@ -24,7 +24,7 @@
 
   <h3>Outras Tecnologias</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,linux,maven" />
+    <img src="https://skillicons.dev/icons?i=figma,maven" />
   </a>
   <br />
 </div>
